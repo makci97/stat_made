@@ -21,7 +21,7 @@ n = 100
 p = 1/2
 m = n * p
 d = sqrt(n * p * (1 - p))
-pnorm((b - m) / d) - pnorm((a - m) / d)
+pnorm((b - m) / d) - pnorm((a - 1 - m) / d)
 
-pbinom(b, n, p) - pbinom(a, n, p)
+pbinom(b, n, p) - pbinom(a - 1, n, p)
 

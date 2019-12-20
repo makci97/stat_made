@@ -1,0 +1,4 @@
+Categ	BP	Lukoil	MTK	Sibneft	Tatneft	TNK	Ukos
+От 1 до 3	9	18	10	15	16	19	20
+4 или 5	28	58	25	41	23	55	49
+6 или 7	102	184	38	56	46	208	85

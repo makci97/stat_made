@@ -1,0 +1,6 @@
+Words	Brown	CELEX
+the	69971	1093547
+president	382	2469
+hare	1	153
+harpsichord	1	16
+Other	929645	17483936
